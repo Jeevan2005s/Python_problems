@@ -5,4 +5,5 @@ for i in range(len(a)):
         a.pop(i)
         a.append(0)
     print(a)    
-print(a)        
+print(a)    
+    
